@@ -6,7 +6,7 @@
 # catalog-version 1.0a
 Name:		texlive-tabularborder
 Version:	1.0a
-Release:	1
+Release:	2
 Summary:	Correct index entries for chemical compounds
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabularborder
