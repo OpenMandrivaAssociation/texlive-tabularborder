@@ -1,6 +1,6 @@
 Name:		texlive-tabularborder
 Version:	17885
-Release:	1
+Release:	2
 Summary:	Correct index entries for chemical compounds
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabularborder
